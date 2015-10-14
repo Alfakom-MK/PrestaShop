@@ -196,7 +196,7 @@ return array (
     'If you have any questions, please visit our <a href="%1$s" target="_blank">documentation</a> and <a href="%2$s" target="_blank">community forum</a>.' => 'If you have any questions, please visit our <a href="%1$s" target="_blank">documentation</a> and <a href="%2$s" target="_blank">community forum</a>.',
     'PrestaShop compatibility with your system environment has been verified!' => 'PrestaShop compatibility with your system environment has been verified!',
     'Oops! Please correct the item(s) below, and then click "Refresh information" to test the compatibility of your new system.' => 'Oops! Please correct the item(s) below, and then click "Refresh information" to test the compatibility of your new system.',
-    'Refresh these settings' => 'Refresh these settings',
+    'Refresh information' => 'Refresh information',
     'PrestaShop requires at least 32M of memory to run, please check the memory_limit directive in php.ini or contact your host provider' => 'PrestaShop requires at least 32M of memory to run, please check the memory_limit directive in php.ini or contact your host provider',
     '<b>Warning: You cannot use anymore this tool to upgrade your store.</b><br /><br />You already have <b>PrestaShop version %1$s installed</b>.<br /><br />If you want to upgrade to the latest version please read our documentation: <a href="%2$s">%2$s</a>' => '<b>Warning: You cannot use anymore this tool to upgrade your store.</b><br /><br />You already have <b>PrestaShop version %1$s installed</b>.<br /><br />If you want to upgrade to the latest version please read our documentation: <a href="%2$s">%2$s</a>',
     'Welcome to the PrestaShop %s Installer' => 'Welcome to the PrestaShop %s Installer',
